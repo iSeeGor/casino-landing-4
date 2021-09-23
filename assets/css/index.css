@@ -1024,7 +1024,7 @@ table.table--yellow td:last-child {
     width: 100%;
   }
 }
-@media (min-width: 1920px) {
+@media (min-width: 1921px) {
   .front-slider__item {
     height: auto;
   }
